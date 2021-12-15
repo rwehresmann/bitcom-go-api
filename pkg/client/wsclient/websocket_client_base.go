@@ -7,9 +7,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/bitcom-exchange/bitcom-go-api/logging/applogger"
-	"github.com/bitcom-exchange/bitcom-go-api/pkg/model/ws"
 	"github.com/gorilla/websocket"
+	"github.com/rwehresmann/bitcom-go-api/logging/applogger"
+	"github.com/rwehresmann/bitcom-go-api/pkg/model/ws"
 )
 
 const (

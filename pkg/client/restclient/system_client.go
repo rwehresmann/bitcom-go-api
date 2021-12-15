@@ -4,10 +4,10 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/bitcom-exchange/bitcom-go-api/constant"
-	"github.com/bitcom-exchange/bitcom-go-api/internal"
-	"github.com/bitcom-exchange/bitcom-go-api/internal/requestbuilder"
-	"github.com/bitcom-exchange/bitcom-go-api/pkg/model/system"
+	"github.com/rwehresmann/bitcom-go-api/constant"
+	"github.com/rwehresmann/bitcom-go-api/internal"
+	"github.com/rwehresmann/bitcom-go-api/internal/requestbuilder"
+	"github.com/rwehresmann/bitcom-go-api/pkg/model/system"
 )
 
 type SystemClient struct {

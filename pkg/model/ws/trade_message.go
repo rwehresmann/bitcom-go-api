@@ -1,6 +1,6 @@
 package ws
 
-import "github.com/bitcom-exchange/bitcom-go-api/pkg/model/base"
+import "github.com/rwehresmann/bitcom-go-api/pkg/model/base"
 
 type TradeResponse struct {
 	base.WsBaseResponse

@@ -1,8 +1,8 @@
 package ws
 
 import (
-	"github.com/bitcom-exchange/bitcom-go-api/pkg/model/base"
-	"github.com/bitcom-exchange/bitcom-go-api/pkg/model/order"
+	"github.com/rwehresmann/bitcom-go-api/pkg/model/base"
+	"github.com/rwehresmann/bitcom-go-api/pkg/model/order"
 )
 
 type OrderResponse struct {

@@ -1,7 +1,7 @@
 package wsclient
 
 import (
-	"github.com/bitcom-exchange/bitcom-go-api/logging/applogger"
+	"github.com/rwehresmann/bitcom-go-api/logging/applogger"
 )
 
 type PublicWebsocketClient struct {

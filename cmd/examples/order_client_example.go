@@ -1,10 +1,10 @@
 package examples
 
 import (
-	"github.com/bitcom-exchange/bitcom-go-api/config"
-	"github.com/bitcom-exchange/bitcom-go-api/logging/applogger"
-	"github.com/bitcom-exchange/bitcom-go-api/pkg/client/restclient"
-	"github.com/bitcom-exchange/bitcom-go-api/pkg/model"
+	"github.com/rwehresmann/bitcom-go-api/config"
+	"github.com/rwehresmann/bitcom-go-api/logging/applogger"
+	"github.com/rwehresmann/bitcom-go-api/pkg/client/restclient"
+	"github.com/rwehresmann/bitcom-go-api/pkg/model"
 	"github.com/tidwall/pretty"
 )
 

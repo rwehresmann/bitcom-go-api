@@ -4,11 +4,11 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/bitcom-exchange/bitcom-go-api/constant"
-	"github.com/bitcom-exchange/bitcom-go-api/internal"
-	"github.com/bitcom-exchange/bitcom-go-api/internal/requestbuilder"
-	"github.com/bitcom-exchange/bitcom-go-api/pkg/model/base"
-	"github.com/bitcom-exchange/bitcom-go-api/pkg/model/market"
+	"github.com/rwehresmann/bitcom-go-api/constant"
+	"github.com/rwehresmann/bitcom-go-api/internal"
+	"github.com/rwehresmann/bitcom-go-api/internal/requestbuilder"
+	"github.com/rwehresmann/bitcom-go-api/pkg/model/base"
+	"github.com/rwehresmann/bitcom-go-api/pkg/model/market"
 )
 
 type MarketClient struct {

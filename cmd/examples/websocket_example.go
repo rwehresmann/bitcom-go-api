@@ -3,12 +3,12 @@ package examples
 import (
 	"fmt"
 
-	"github.com/bitcom-exchange/bitcom-go-api/config"
-	"github.com/bitcom-exchange/bitcom-go-api/logging/applogger"
-	"github.com/bitcom-exchange/bitcom-go-api/pkg/client/restclient"
-	"github.com/bitcom-exchange/bitcom-go-api/pkg/client/wsclient"
-	"github.com/bitcom-exchange/bitcom-go-api/pkg/model"
-	"github.com/bitcom-exchange/bitcom-go-api/pkg/model/ws"
+	"github.com/rwehresmann/bitcom-go-api/config"
+	"github.com/rwehresmann/bitcom-go-api/logging/applogger"
+	"github.com/rwehresmann/bitcom-go-api/pkg/client/restclient"
+	"github.com/rwehresmann/bitcom-go-api/pkg/client/wsclient"
+	"github.com/rwehresmann/bitcom-go-api/pkg/model"
+	"github.com/rwehresmann/bitcom-go-api/pkg/model/ws"
 )
 
 func responseHandlerExample(resp interface{}) {
